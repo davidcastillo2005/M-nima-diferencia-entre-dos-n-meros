@@ -1,0 +1,1 @@
+# Mínima diferencia entre dos números
